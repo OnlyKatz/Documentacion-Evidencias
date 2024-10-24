@@ -1,0 +1,27 @@
+{
+    "usuarios": [
+        {
+            "_id": " ",
+            "name": " ",
+            "age": " ",
+            "email": " ",
+            "role": " ",
+            "bookmarks": [
+                {
+                    "carrera_id": " ",
+                    "marked_at": " "
+                },
+                {
+                    "carrera_id": " ",
+                    "marked_at": " "
+                },
+                {
+                    "carrera_id": " ",
+                    "marked_at": " "
+                }
+            ],
+            "createdAt": "//Propiedades agregadas por MongoDB",
+            "updatedAt": "//Propiedades agregadas por MongoDB"
+        }
+    ]
+}

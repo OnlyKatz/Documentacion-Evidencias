@@ -1,0 +1,37 @@
+{
+    "instituciones": [
+        {
+            "id": 1,
+            "institucion": " ",
+            "tipo_institucion": " ",
+            "carrera": " ",
+            "escuela": " ",
+            "sedes": [
+                {
+                    "sede": " ",
+                    "modalidad": " ",
+                    "ubicacion": " ",
+                    "foto": " "
+                },
+                {
+                    "sede": " ",
+                    "modalidad": " ",
+                    "ubicacion": " ",
+                    "foto": " "
+                }
+            ],
+            "dur_semestres": " ",
+            "arancel": " ",
+            "matricula": " ",
+            "psu": " ",
+            "descripcion": " ",
+            "perfil_egreso": " ",
+            "competencias": " ",
+            "sueldo_1er_anio": " ",
+            "sueldo_4to_anio": " ",
+            "tasa_empleabilidad": " ",
+            "tiempo_promedio_conseguir_empleo": " ",
+            "acreditada": " "
+        }
+    ]
+}
